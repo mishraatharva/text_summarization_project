@@ -1,0 +1,11 @@
+tensorflow==2.10
+nltk
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+beautifulsoup4
+lxml
+scikit-learn
