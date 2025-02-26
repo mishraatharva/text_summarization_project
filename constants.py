@@ -45,5 +45,8 @@ CONTRACTION_MAPPING = {"ain't": "is not", "aren't": "are not","can't": "cannot",
                            "you're": "you are", "you've": "you have"}
 
 
-MAX_LEN_TEXT = 150
-MAX_LEN_SUMMARY = 80
+text_voc_size = 95454
+summary_voc_size = 26244
+MAX_LEN_TEXT = 1892
+MAX_LEN_SUMMARY = 29
+latent_dim = 256
